@@ -39,7 +39,7 @@ const SelectedAnecdote = (props) => {
 const UpvoteButton = () => {
 	return (
 		<button>
-			Upvote! ({fessior})
+			Upvote! ()
 		</button>
 	);
 }
