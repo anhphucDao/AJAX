@@ -1,0 +1,846 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inde",
+				"indent_size"
+			],
+			[
+				"e",
+				"indent_style"
+			],
+			[
+				"gtk_builder_add_from",
+				"gtk_builder_add_from_resource"
+			],
+			[
+				"gtk_css_provider",
+				"gtk_css_provider_load_from_file"
+			],
+			[
+				"remove",
+				"removed_entry"
+			],
+			[
+				"index_store_rem",
+				"index_store_remove_and_return_entry"
+			],
+			[
+				"COLUMN",
+				"COLUMN_POSITION"
+			],
+			[
+				"COLUMN_",
+				"COLUMN_POSITION"
+			],
+			[
+				"cJSON_",
+				"cJSON_Delete"
+			],
+			[
+				"SEEK",
+				"SEEK_END"
+			],
+			[
+				"size_t",
+				"size_t"
+			],
+			[
+				"DLIBSMKL",
+				"DLIBSMKL_DIR"
+			],
+			[
+				"GTK",
+				"GTK_WINDOW"
+			],
+			[
+				"G_",
+				"G_APPLICATION_FLAGS_NONE"
+			],
+			[
+				"addon",
+				"addonbuild_filestream"
+			],
+			[
+				"radio_",
+				"radio_states"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"pubfile",
+				"pubfile_json"
+			],
+			[
+				"RET",
+				"RET_ERR"
+			],
+			[
+				"--gnome",
+				"--gnome-orng-dark"
+			],
+			[
+				"iw_",
+				"iw_heads_list_render"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"md-cast",
+				"md-cast-panel"
+			],
+			[
+				"east",
+				"ease-in-out"
+			],
+			[
+				"md-cou",
+				"md-countdown-output"
+			],
+			[
+				"md",
+				"md-countdown-output"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"translte",
+				"translateY()"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"tex",
+				"text-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"CURLOPT_WRITE",
+				"CURLOPT_WRITEFUNCTION"
+			],
+			[
+				"_curl_set",
+				"_curl_set_download_file"
+			],
+			[
+				"curl_easy",
+				"curl_easy_setopt"
+			],
+			[
+				"ADDON",
+				"ADDON_ENABLED"
+			],
+			[
+				"steam",
+				"steamworkshop_get_img"
+			],
+			[
+				"dlqueu",
+				"dlqueue__printrear"
+			],
+			[
+				"mk_",
+				"mk_strcat"
+			],
+			[
+				"DLIBS",
+				"DLIBS_HEAD"
+			],
+			[
+				"DLIB",
+				"DLIBMAKI_HEAD"
+			],
+			[
+				"SIZE",
+				"SIZE_VPKENTRY"
+			],
+			[
+				"SIZE_",
+				"SIZE_VPKENTRY"
+			],
+			[
+				"def",
+				"def_name"
+			],
+			[
+				"_put_",
+				"_put_prompt"
+			],
+			[
+				"pak",
+				"pak_intarr"
+			],
+			[
+				"Valv",
+				"ValvePak__read_pak"
+			],
+			[
+				"VPK",
+				"VPKDirectoryEntry"
+			],
+			[
+				"SIZE_VPK",
+				"SIZE_VPKENTRY"
+			],
+			[
+				"DEBUG_REA",
+				"DEBUG_READ_TREE"
+			],
+			[
+				"SIZE_F",
+				"SIZE_FNAME"
+			],
+			[
+				"DEBUG_",
+				"DEBUG_READ_ENTRY"
+			],
+			[
+				"_path",
+				"_pathcat_v2"
+			],
+			[
+				"opt_",
+				"opt_cache_index"
+			],
+			[
+				"sort_",
+				"sort_bubble"
+			],
+			[
+				"pkgn",
+				"pkgnamealt"
+			],
+			[
+				"number",
+				"numberCatList"
+			],
+			[
+				"num",
+				"numberCatList"
+			],
+			[
+				"remote_src",
+				"remote_srcid"
+			],
+			[
+				"b",
+				"bDOWNLOAD_INFO"
+			],
+			[
+				"worksho",
+				"workshop_get_tags"
+			],
+			[
+				"bDOWN",
+				"bDOWNLOAD_INFO"
+			],
+			[
+				"input",
+				"inputread"
+			],
+			[
+				"mapp_",
+				"mapp_ulog"
+			],
+			[
+				"json",
+				"jsonobj_filtered"
+			],
+			[
+				"arg_src",
+				"arg_srcname"
+			],
+			[
+				"ADDONS_D",
+				"ADDONSDOCK_DIR"
+			],
+			[
+				"bD",
+				"bDOWNLOAD_IMAGE"
+			],
+			[
+				"sDOWN",
+				"sDOWNLOAD_NAME"
+			],
+			[
+				"sDOW",
+				"sDOWNLOAD_FILEID"
+			],
+			[
+				"DOWN",
+				"bDOWNLOAD_ONLY_IMAGE"
+			],
+			[
+				"l4d2",
+				"l4d2_download_thumbnail"
+			],
+			[
+				"card",
+				"card_name"
+			],
+			[
+				"ADDONS",
+				"ADDONS_DIR"
+			],
+			[
+				"NUM",
+				"NUM_ADDONS"
+			],
+			[
+				"VPKFIL",
+				"VPKFILES"
+			],
+			[
+				"DIFF",
+				"DIFF_INPUT"
+			],
+			[
+				"DI",
+				"DIFF_DIRS"
+			],
+			[
+				"VPKDI",
+				"VPKDICT"
+			],
+			[
+				"c_ad",
+				"c_addontitle"
+			],
+			[
+				"VPKDIC",
+				"VPKDICT"
+			],
+			[
+				"file",
+				"fileCurrent"
+			],
+			[
+				"xtr",
+				"xtr_vpkdir"
+			],
+			[
+				"vpkdir",
+				"vpkdir_buffer"
+			],
+			[
+				"ADD",
+				"ADDONSDOCK_DIR"
+			],
+			[
+				"vpk",
+				"vpkfile_PATH"
+			],
+			[
+				"work",
+				"work_deploy_all"
+			],
+			[
+				"DE",
+				"DEPLOY_ALL_VPKDIRPATHS"
+			],
+			[
+				"DEPLOY_ALL_",
+				"DEPLOY_ALL_VPKOUTPATHS"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lsp enab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp dis",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"lsp",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"clang",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"package ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"package enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"terminus",
+				"Terminus: Minimize to Panel"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"package dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"terminu",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"editor",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package eng",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"package resourc",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: elif …"
+			],
+			[
+				"termi",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"terminus uti",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"t",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"omni",
+				"OmniSharpSublime: Restart Server"
+			],
+			[
+				"omnisharp",
+				"OmniSharpSublime: Restart Server"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 536.0,
+		"history":
+		[
+			"print(\"hi\")",
+			"print(hi)",
+			"omnisharp",
+			"asdas"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kinten/Garage/AJAX"
+	],
+	"file_history":
+	[
+		"/home/kinten/Garage/AJAX/note.txt",
+		"/home/kinten/Garage/AJAX/part1/courseinfo/src/App.js",
+		"/home/kinten/Garage/AJAX/part1/courseinfo/src/index.js",
+		"/home/kinten/Garage/AJAX/part1/courseinfo/package.json",
+		"/home/kinten/Garage/AJAX/chapter-1/components.jsx",
+		"/home/kinten/Garage/AJAX/part1/courseinfo/src/setupTests.js",
+		"/home/kinten/Garage/AJAX/part1/courseinfo/src/App.test.js",
+		"/home/kinten/Garage/AJAX/ts",
+		"/home/kinten/Garage/#legacy/fuji/index.js",
+		"/home/kinten/Garage/#legacy/fuji/public/bundle.js",
+		"/home/kinten/Garage/#legacy/fuji/public/test.js",
+		"/home/kinten/Garage/SteamVpk/SteamVpk/com.github.kinten108101.SteamVpk.yml",
+		"/home/kinten/Bay/Setzer/org.cvfosammmm.Setzer.json",
+		"/home/kinten/Bay/Setzer/meson.build",
+		"/home/kinten/Bay/Setzer/scripts/setzer.dev",
+		"/home/kinten/Bay/Setzer/_build/setzer",
+		"/home/kinten/Bay/Setzer/_build/compile_commands.json",
+		"/home/kinten/Garage/SteamVpk/SteamVpk/NOTE",
+		"/home/kinten/Garage/SteamVpk/SteamVpk/DOC.md",
+		"/home/kinten/Garage/SteamVpk/SteamVpk/com.github.kinten108101.SteamVpk.json",
+		"/home/kinten/Garage/SteamVpk/SteamVpk/.editorconfig",
+		"/home/kinten/Garage/SteamVpk/SteamVpk/src/linking/meson.build",
+		"/home/kinten/Garage/SteamVpk/SteamVpk/src/gui/meson.build",
+		"/home/kinten/Garage/SteamVpk/SteamVpk/src/download/meson.build",
+		"/home/kinten/Garage/SteamVpk/Smkl/src/io.c",
+		"/home/kinten/Garage/SteamVpk/Smkl/src/meson.build",
+		"/home/kinten/Garage/SteamVpk/Smkl/src/string.c",
+		"/home/kinten/Garage/SteamVpk/Smkl/meson.build",
+		"/home/kinten/Garage/SteamVpk/SteamVpk/meson.build",
+		"/home/kinten/Garage/SteamVpk/Smkl/meson_options.txt",
+		"/home/kinten/Garage/SteamVpk/Smkl/src/math.c",
+		"/home/kinten/Garage/SteamVpk/Smkl/.editorconfig",
+		"/home/kinten/Garage/SteamVpk/Smkl/.gitignore",
+		"/home/kinten/Garage/SteamVpk/CedaPacker/meson_options.txt",
+		"/home/kinten/Garage/SteamVpk/CedaPacker/.gitignore",
+		"/home/kinten/Bay/gtkmm-documentation/meson_options.txt",
+		"/home/kinten/Garage/SteamVpk/Myso/.gitignore",
+		"/home/kinten/Garage/SteamVpk/Myso/meson.build",
+		"/home/kinten/Garage/SteamVpk/Myso/CHANGELOG.md",
+		"/home/kinten/Garage/SteamVpk/Myso/meson_options.txt",
+		"/home/kinten/Garage/SteamVpk/Myso/.editorconfig",
+		"/home/kinten/Garage/myso/configure.ac",
+		"/home/kinten/Garage/myso/src/resource/myso.gschema.xml",
+		"/home/kinten/Garage/myso/src/myso_init.c",
+		"/home/kinten/Garage/myso/src/gui/myso_application.h",
+		"/home/kinten/Garage/myso/NOTE",
+		"/home/kinten/Garage/myso/makefile",
+		"/home/kinten/Garage/myso/src/gui/myso_application.c",
+		"/home/kinten/Garage/devhelp-extended/books/unity-static/StaticFilesManual/css/font.css",
+		"/home/kinten/Garage/devhelp/devhelp/devhelp.h",
+		"/usr/share/devhelp/books/folks/devhelpstyle.css",
+		"/home/kinten/Garage/source-garage/rifle-RAM7.md",
+		"/home/kinten/Garage/myso/configure",
+		"/home/kinten/Garage/myso/src/resource/myso.gresource.xml",
+		"/home/kinten/Garage/myso/src/resource/compile-list.xml",
+		"/home/kinten/Garage/myso/src/resource",
+		"/home/kinten/Garage/myso/src/sandbox/generic_gui_app_3.c",
+		"/usr/include/libadwaita-1/adw-application.h",
+		"/home/kinten/Garage/myso/src/utils/string.h",
+		"/usr/lib/clang/14.0.6/include/stdint.h",
+		"/home/kinten/garage/myso/src/gui/myso_application.h",
+		"/home/kinten/Profile/subl/myso.sublime-project",
+		"/home/kinten/garage/myso/.gitignore",
+		"/home/kinten/garage/myso/src/gui/myso_application.c",
+		"/home/kinten/profile/subl/myso.sublime-project",
+		"/home/kinten/markdoc/README",
+		"/home/kinten/markdoc/DOC.md",
+		"/home/kinten/markdoc/SOLDER.md",
+		"/home/kinten/markdoc/MANGA.md",
+		"/home/kinten/readlist/README",
+		"/home/kinten/Garage/playlist/DOC.md",
+		"/home/kinten/Garage/playlist/TODO",
+		"/home/kinten/Garage/playlist/WATCHLIST.md",
+		"/home/kinten/Garage/playlist/PLAYLIST.md",
+		"/home/kinten/Garage/playlist/FINAL INTERPRETER 0",
+		"/home/kinten/Garage/playlist/BLUE HEART ROBO",
+		"/home/kinten/Garage/playlist/playlist.sublime-project",
+		"/home/kinten/Garage/playlist/GTAIVsave/timecyc_modded.dat",
+		"/home/kinten/Garage/playlist/GTAIVsave/backupinfo.md",
+		"/home/kinten/Garage/playlist/FINAL INTERPRETER THEME SONGS COLLECTION",
+		"/home/kinten/Garage/playlist/LinearAlgebra.md",
+		"/home/kinten/Games0/mod-organizer-2-newvegas/modorganizer2/profiles/kinten-new-vegas/settings.ini",
+		"/home/kinten/Games0/GTAIVsave/backupinfo.txt",
+		"/home/kinten/Garage/playlist/READLIST.md",
+		"/home/kinten/Garage/playlist/TODO.md",
+		"/home/kinten/Garage/playlist/SOLDER.md",
+		"/home/kinten/Garage/playlist/update.sh",
+		"/home/kinten/Garage/playlist/808.0427.SED.md",
+		"/home/kinten/Garage/playlist/LIB.md",
+		"/home/kinten/Garage/playlist/MANGA.md",
+		"/home/kinten/Garage/legacy/trello-BlackMountain/legacy/kreview_DayBreak.md",
+		"/home/kinten/Garage/playlist/PLAYLIST",
+		"/home/kinten/Garage/legacy/trello-BlackMountain/legacy/kreview-SummerTimeRendering.md",
+		"/home/kinten/Garage/mates-vpk/src/sandbox/generic_gui_app_2.c",
+		"/home/kinten/Garage/mates-vpk/src/sandbox/addon_list.c",
+		"/usr/include/gtk-4.0/gtk/gtk.h",
+		"/home/kinten/Garage/mates-vpk/src/sandbox/untitled.c",
+		"/home/kinten/Garage/mates-vpk/src/download/dlqueue.h",
+		"/home/kinten/Garage/mates-vpk/src/download/curl.c",
+		"/home/kinten/Garage/mates-vpk/src/download/curl.h",
+		"/home/kinten/Garage/mates-vpk/src/download/dlqueue.c",
+		"/home/kinten/Garage/mates-vpk/src/archival/valvepak_extract.c",
+		"/home/kinten/Garage/mates-vpk/src/smkl/string.h",
+		"/home/kinten/Garage/mates-vpk/src/smkl/string.c",
+		"/home/kinten/Garage/mates-vpk/resources/settings.json",
+		"/home/kinten/Garage/mates-vpk/src/sandbox/demo_workshop_2.c",
+		"/home/kinten/Garage/mates-vpk/src/model/link.c",
+		"/home/kinten/Garage/mates-vpk/src/model/io.c",
+		"/home/kinten/Garage/mates-vpk/src/gui/init.c",
+		"/home/kinten/Garage/mates-vpk/src/model/io.h",
+		"/home/kinten/Garage/mates-vpk/src/model/addonlist.c",
+		"/home/kinten/Garage/mates-vpk/src/archival/valvepak_compare.c",
+		"/home/kinten/Garage/mates-vpk/src/link/link.c",
+		"/home/kinten/Bay/rtl8821ce-dkms-git/src/rtl8821ce/core/rtw_beamforming.c",
+		"/home/kinten/Bay/rtl8821ce-dkms-git/src/rtl8821ce/core/rtw_ap.c",
+		"/home/kinten/Bay/rtl8821ce-dkms-git/src/rtl8821ce/rtl8821c.mk",
+		"/home/kinten/Bay/rtl8821ce-dkms-git/src/rtl8821ce/include/drv_types_ce.h",
+		"/home/kinten/Garage/mates-vpk/src/archival/valvepak.h",
+		"/home/kinten/Garage/playlist/CALCULUS",
+		"/home/kinten/Garage/mates-vpk/src/smkl/mem.c",
+		"/home/kinten/Garage/mates-vpk/src/sandbox/demo_workshop_3.c",
+		"/home/kinten/Downloads/brackets-2.1.2-release/package.json",
+		"/home/kinten/Garage/mates-vpk/src/download/legacy/dlqueue.c",
+		"/home/kinten/Downloads/brackets-2.1.2-release/.brackets.json",
+		"/home/kinten/Garage/playlist/WISHLIST",
+		"/home/kinten/Garage/mates-vpk/CHANGELOG.md",
+		"/home/kinten/Garage/mates-vpk/NOTE",
+		"/home/kinten/Garage/mates-vpk/src/smkl/std.h"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 79.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.Debugger":
+	{
+		"height": 0.0
+	},
+	"output.Debugger Console":
+	{
+		"height": 0.0
+	},
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 162.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Mates VPK Development Bootstraps (GUI)",
+	"project": "ajax.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 715.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Garage/SteamVpk/Smkl/smkl.sublime-project"
+			]
+		],
+		"width": 543.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 372.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
