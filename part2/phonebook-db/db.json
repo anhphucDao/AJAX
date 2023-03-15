@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Nijika Ijichi",
+      "number": "0281557620",
+      "important": false
+    },
+    {
+      "id": 4,
+      "name": "123",
+      "number": "asd",
+      "important": true
+    },
+    {
+      "id": 9248788,
+      "name": "Haha",
+      "number": "123",
+      "important": false
+    },
+    {
+      "id": 7389446,
+      "name": "The Man",
+      "number": "550",
+      "important": false
+    },
+    {
+      "id": 2161800,
+      "name": "Black Man",
+      "number": "0229",
+      "important": true
+    }
+  ]
+}
