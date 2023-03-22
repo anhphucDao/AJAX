@@ -1,0 +1,21 @@
+{
+	"name": "phonebook-be-2-bao",
+	"version": "0.0.1",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"dev": "nodemon --inspect server.js",
+		"test": "echo No test!"
+	},
+	"author": "kinten108101",
+	"license": "MIT",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"dotenv": "^16.0.3",
+		"express": "^4.18.2",
+		"mongoose": "^7.0.2"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.21"
+	}
+}
