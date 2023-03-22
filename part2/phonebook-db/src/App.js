@@ -1,6 +1,7 @@
 import './App.css';
 import {useState, useEffect} from 'react'
 import axios from 'axios'
+
 const DB_ADDR = 'http://localhost:3001/contacts'
 
 function PhoneBook(props) {
@@ -95,7 +96,7 @@ function App() {
   // empty array: only at mounting
   const addContact = (name, number, isImportant) => {
     let applicantContact = {
-        'id': Math.ceil(Math.random()*10000000),
+        'id': String(Math.ceil(Math.random()*10000000)),
         'name': name,
         'number': number,
         'important': isImportant
