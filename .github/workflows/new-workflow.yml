@@ -3,7 +3,7 @@ run-name: ${{ github.actor }} is aha
 on:
   push:
     branches:
-      - dev
+      - dev2
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
