@@ -1,0 +1,7 @@
+- Installed Android Toolchain
+  - Install Android SDK
+  - Install JDK 19
+  - Accept all licenses
+- Installed Android Studio, Flatpak version. Remember to set path with `flutter config --android-studio-dir=/var/lib/flatpak/app/com.google.AndroidStudio/current/active/files/extra/android-studio`
+  - Flutter may be unable to find bundled Java version with Android Studio. The problem is that it looks for ${android-studio-dir}/jre but that folder may not even exist. The current workaround is to create jre as a softlink to jbr.
+
