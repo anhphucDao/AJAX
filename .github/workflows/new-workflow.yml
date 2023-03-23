@@ -1,10 +1,11 @@
 name: Interesting
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: ${{ github.actor }} is Interesting
 on:
   push:
     branches:
       - dev
       - dev2
+      - dev3
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
