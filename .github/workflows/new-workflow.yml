@@ -1,8 +1,9 @@
-name: Aha
-run-name: ${{ github.actor }} is aha
+name: Interesting
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on:
   push:
     branches:
+      - dev
       - dev2
 jobs:
   Explore-GitHub-Actions:
